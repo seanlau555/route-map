@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppContainer should connect store correctly 1`] = `ReactWrapper {}`;
